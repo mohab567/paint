@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_101" class="java.beans.XMLDecoder">
+ <object class="canvas.module.VCanvas">
+  <void property="height">
+   <double>1100.0</double>
+  </void>
+  <void property="shapesContainer">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="shape.modules.VEllipse">
+      <void property="borderColor">
+       <string>0x000000ff</string>
+      </void>
+      <void property="borderSize">
+       <double>3.0</double>
+      </void>
+      <void property="fillColor">
+       <string>0xffff00ff</string>
+      </void>
+      <void property="majorAxis">
+       <double>60.0</double>
+      </void>
+      <void property="minorAxis">
+       <double>40.0</double>
+      </void>
+      <void property="translateX">
+       <double>70.0</double>
+      </void>
+      <void property="translateY">
+       <double>70.0</double>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="shape.modules.VCircle">
+      <void property="borderColor">
+       <string>0x000000ff</string>
+      </void>
+      <void property="borderSize">
+       <double>3.0</double>
+      </void>
+      <void property="fillColor">
+       <string>0xffff00ff</string>
+      </void>
+      <void property="majorAxis">
+       <double>50.0</double>
+      </void>
+      <void property="minorAxis">
+       <double>50.0</double>
+      </void>
+      <void property="translateX">
+       <double>70.0</double>
+      </void>
+      <void property="translateY">
+       <double>70.0</double>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="shape.modules.VLine">
+      <void property="borderColor">
+       <string>0x000000ff</string>
+      </void>
+      <void property="borderSize">
+       <double>3.0</double>
+      </void>
+      <void property="endX">
+       <double>70.0</double>
+      </void>
+      <void property="endY">
+       <double>100.0</double>
+      </void>
+      <void property="fillColor">
+       <string>0xffff00ff</string>
+      </void>
+      <void property="startX">
+       <double>10.0</double>
+      </void>
+      <void property="startY">
+       <double>10.0</double>
+      </void>
+      <void property="translateX">
+       <double>70.0</double>
+      </void>
+      <void property="translateY">
+       <double>70.0</double>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="shape.modules.VRectangle">
+      <void property="borderColor">
+       <string>0x000000ff</string>
+      </void>
+      <void property="borderSize">
+       <double>3.0</double>
+      </void>
+      <void property="fillColor">
+       <string>0xffff00ff</string>
+      </void>
+      <void property="height">
+       <double>100.0</double>
+      </void>
+      <void property="translateX">
+       <double>70.0</double>
+      </void>
+      <void property="translateY">
+       <double>70.0</double>
+      </void>
+      <void property="width">
+       <double>200.0</double>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="shape.modules.VSquare">
+      <void property="borderColor">
+       <string>0x000000ff</string>
+      </void>
+      <void property="borderSize">
+       <double>3.0</double>
+      </void>
+      <void property="fillColor">
+       <string>0xffff00ff</string>
+      </void>
+      <void property="height">
+       <double>100.0</double>
+      </void>
+      <void property="translateX">
+       <double>70.0</double>
+      </void>
+      <void property="translateY">
+       <double>70.0</double>
+      </void>
+      <void property="width">
+       <double>100.0</double>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void property="width">
+   <double>900.0</double>
+  </void>
+ </object>
+</java>
